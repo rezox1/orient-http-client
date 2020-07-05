@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rezox",
+  "repository": "https://github.com/rezox1/orient-http-client",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
