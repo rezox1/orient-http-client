@@ -10,7 +10,7 @@
   "repository": "https://github.com/rezox1/orient-http-client",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "btoa": "^1.2.1"
   }
 }
